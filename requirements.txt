@@ -17,3 +17,27 @@ telegraph
 googletrans
 gTTS
    
+telegraph==2.2.0
+googletrans==3.1.0a0
+opencv-python-headless
+requests
+gTTS
+NumPy
+glitch_this
+speedtest
+aiohttp
+aiofiles
+Pillow
+pypng
+wget
+psutil
+humanize
+wheel
+py-tgcalls
+python-dotenv
+ujson
+beautifulsoup4
+ffmpeg
+ffmpeg-python
+Pyromod 
+pytz
